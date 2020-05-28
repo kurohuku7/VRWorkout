@@ -1,3 +1,5 @@
+※これは [VRWorkout](https://github.com/mgschwan/VRWorkout) の Readme の日本語翻訳です
+
 # VRWorkout
 Oculus Quest 向け VR フィットネスゲーム
 
@@ -73,7 +75,7 @@ Quest 版のみビーストモードが有効化できます。左側の「Toogl
 
 ## 開発
 
-これは私(開発者)が初めて作った VR ゲームであり、初めて Godot を使って開発したゲームでもあるため、コードは少し汚いです。
+これは私 (※開発者のmgschwan) が初めて作った VR ゲームであり、初めて Godot を使って開発したゲームでもあるため、コードは少し汚いです。
 
 Oculus Quest 版の開発に必要なもの：
 
